@@ -32,4 +32,3 @@ print("Element :: " + str(6) + " is at index :: " + str(matchedElementIndex))
 
 matchedElementIndex = binarySearch(11,0,len(datacollection)-1,datacollection)
 print("Element :: " + str(11) + " is at index :: " + str(matchedElementIndex))
-
