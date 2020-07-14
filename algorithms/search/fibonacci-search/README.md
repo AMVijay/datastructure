@@ -20,6 +20,6 @@ Fibonacci Search algorithm uses fibonacci series numbers to determine the index 
 		* Step 7.2.2.  If yes, then shift the fibonacci numbers two left from higher value, that  reinitializes the variable as below
 			* Step 7.2.2.1  fibonacciM = fibonacciM2
 			* Step 7.2.2.2  fibonacciM1 = fibonacciM - fibonacciM1
-	    * Step 7.2.2.3   fibonacciM2 = fibonacciM - fibonacciM2
+			* Step 7.2.2.3   fibonacciM2 = fibonacciM - fibonacciM2
 	* Step 7.3 Repeat the step 5 to 7.3.
 * Step 8. If no, stop the iteration and return -1.
