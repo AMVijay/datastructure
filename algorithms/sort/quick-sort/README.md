@@ -8,3 +8,7 @@ Quick sort algorithm uses a pivot value to partition the input linear data struc
 * Step 3: Follow the step 1 in recursive for the left side parition (lesser value elements of pivot value position). 
 * Step 4: Follow the step 1 in recursive for the right side partition (greater value elements of pivot value position).
 
+## Implementation 
+
+* Rust Implementation https://github.com/AMVijay/datastructure/tree/master/algorithms/sort/quick-sort/quick-sort-rust 
+
